@@ -1,5 +1,5 @@
 ppt.pptx
 datasets/
 numpydatasets/
-meow/
+./meow/*
 output
