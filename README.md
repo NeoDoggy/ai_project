@@ -171,7 +171,7 @@ model.save('fruit')
 ```
 Save the model and it's all done!
 Below is the plot showing our accuracy:
-![](./acc.png)
+![](./acc.png)  
 By the way, the result of the final accuracy when testing the model is about 0.7, quite nice!
 
 ```Copyright neodoggy 2021```
