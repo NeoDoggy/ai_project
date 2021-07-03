@@ -16,6 +16,10 @@ plt.show()
 y=[[1,1],[2,2],[3,3]]
 print(y[:-1])
 print(y[-3:])
-'''
+
 test=np.load('./datasets/traindataX.npy')
 print(len(test))
+'''
+y=[[1,1],[2,2],[3,3]]
+print(y[:-1])
+print(y[1:])
