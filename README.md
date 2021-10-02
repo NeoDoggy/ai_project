@@ -1,8 +1,6 @@
 Final Project
 ===
 
-[ToC]
-
 # Intro
 Hi there, welcome to my AI course's final project.
 
